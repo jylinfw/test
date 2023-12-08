@@ -1,0 +1,2 @@
+0x030f2cd5	bcmsdh_cfg_read	/home/jy/cypress/driver/sdio/bcmdhd/bcmdhd	EXPORT_SYMBOL	
+0x0694fcf1	bcmsdh_cfg_write	/home/jy/cypress/driver/sdio/bcmdhd/bcmdhd	EXPORT_SYMBOL	

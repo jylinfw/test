@@ -1,0 +1,1 @@
+cmd_/home/jy/cypress/driver/sdio/bcmdhd/Module.symvers := sed 's/\.ko$$/\.o/' /home/jy/cypress/driver/sdio/bcmdhd/modules.order | scripts/mod/modpost -m -a  -o /home/jy/cypress/driver/sdio/bcmdhd/Module.symvers -e -i Module.symvers   -T -
