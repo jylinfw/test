@@ -1,1 +1,0 @@
-cmd_/home/jy/cypress/driver/sdio/bcmdhd/bcmdhd.ko := ld -r -m elf_x86_64 --build-id=sha1  -T scripts/module.lds -o /home/jy/cypress/driver/sdio/bcmdhd/bcmdhd.ko /home/jy/cypress/driver/sdio/bcmdhd/bcmdhd.o /home/jy/cypress/driver/sdio/bcmdhd/bcmdhd.mod.o;  true
